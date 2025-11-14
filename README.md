@@ -31,3 +31,4 @@ git clone https://github.com/SafeLinkProDev/SafeLinkPro-Beta
 flutter pub get
 flutter run
 mailto:-safeLinkPro.dev@gmail.com
+
