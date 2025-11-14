@@ -27,3 +27,4 @@ SafeLinkPro-Beta/
 │   └── sounds/
 ├── pubspec.yaml
 └── README.md
+git clone https://github.com/SafeLinkProDev/SafeLinkPro-Beta
