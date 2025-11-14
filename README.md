@@ -29,3 +29,4 @@ SafeLinkPro-Beta/
 └── README.md
 git clone https://github.com/SafeLinkProDev/SafeLinkPro-Beta
 flutter pub get
+flutter run
